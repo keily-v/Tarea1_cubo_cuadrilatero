@@ -6,7 +6,7 @@ public class PruebaCubo {
     
     public static void main(String[] args) {
         
-        //delación de variables tipo Cubo
+        //delación de variable ob1 tipo Cubo
         Cubo ob1= new Cubo();
         
         ob1.ancho = 3;
