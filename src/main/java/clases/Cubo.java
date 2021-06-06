@@ -5,9 +5,9 @@ public class Cubo {
     
     //declaración de los atributos de la clase Cubo
     
-    int ancho; //variable ancho
-    int alto; //variable alto
-    int prof; //variable profundidad
+    int ancho; //atributo ancho
+    int alto; //atributo alto
+    int prof; //atributo profundidad
     
     //Constructor vacío
     public Cubo() {   
