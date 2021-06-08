@@ -10,7 +10,7 @@ public class Cuadrilatero {
     
     //Constructor vacío
     public Cuadrilatero(){
-        
+        System.out.println("------");
     }
     
     //Constructor con dos parámetros

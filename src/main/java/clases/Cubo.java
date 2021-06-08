@@ -11,7 +11,7 @@ public class Cubo {
     
     //Constructor vacío
     public Cubo() {   
-        
+        System.out.println("-----");
     }
     
     //Constructor con 3 parámetros
